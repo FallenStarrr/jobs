@@ -1,4 +1,5 @@
-import { View , Text } from 'react-native'
+import { ScrollView, SafeAreaView, View , Text } from 'react-native'
+import { useState } from 'react'
 
 const Home = () => {
    return (
